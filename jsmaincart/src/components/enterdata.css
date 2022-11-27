@@ -1,0 +1,8 @@
+.box {
+    width: 30%;
+    background: rgba(248, 248, 255, 0.904);
+    margin: auto;
+    margin-top: 5%;
+    padding: 5px;
+    box-shadow: 10px 10px 5px lightblue;
+}

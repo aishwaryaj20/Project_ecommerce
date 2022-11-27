@@ -1,0 +1,126 @@
+/* div.card {
+    float: left;
+    width: 25%;
+}
+
+.box {
+    width: 90%;
+    height: 80%;
+    border: 1px solid red;
+}
+
+
+div.container {
+    width: 30%;
+    float: left;
+    border: 1px solid;
+    margin: 5px;
+}
+
+img.card-img-top {
+width: 72%;
+margin: 10px;
+border: 1px solid red;
+}
+
+/* 
+.flex-container{
+    display: flex;
+    /* float: left; */
+    /* width: 48%;
+    margin: 8px;
+} */
+.flex-item{
+    padding:10px;
+    border: 1px solid #ccc; 
+    margin: 5px;
+    font-size: large;
+
+} */ */
+
+img {
+    width: 40%;
+}
+.card-title {
+    margin-top: 9px;
+    margin-bottom: 3px;
+    color: #196ead;
+    cursor: pointer;
+    text-align: center;
+    font-size: x-large;
+}
+
+div.card-item {
+    width: 100%;
+}
+button.btn.btn-primary {
+margin-top: 19%;
+
+background: rgb(82, 82, 188);
+}
+
+div.flex-item-rating {
+    margin-left: 16px;
+    font-size: initial;
+    color: red;
+    margin-top: 10px;
+}
+
+
+
+.card-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px auto;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    padding: 14px 10px;
+  }
+  
+  .card-title {
+    margin-top: 9px;
+    margin-bottom: 3px;
+    color: #196ead;;
+    cursor: pointer;
+  
+  }
+  
+  .price {
+    margin-top: 0;
+    margin-bottom: 8px;
+  }
+  
+  .card-image {
+    width: 248px;
+    height: auto;
+  }
+
+  .imgg {
+    width: 212px;
+  }
+  
+  .add-to-cart {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    font-size: 1.2rem;
+    color: white;
+    cursor: pointer;
+    background: #1b1920;
+    border: 0;
+    border-radius: 4px;
+    transition: background 0.4s;
+  }
+
+  select.selectpicker {
+
+    width: 15%;
+    padding: 10px;
+    margin-top: 10px;
+  }
